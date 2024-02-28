@@ -6,12 +6,11 @@
     "email": "jeannechan2002@gmail.com",
     "phone": "",
     "website": "https://icykatara.github.io",
-    "summary": "I am an Information Technology Specialist at University of Hawai'i System and a member of Hawai'i Potters' Guild",
-    "location": { "address": "", "postalCode": "96786", "city": "Wahiawā", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Hi! I am an Information Technology Specialist at University of Hawai'i System and a member of Hawai'i Potters' Guild",
+    "location": { "address": "", "postalCode": "", "city": "Wahiawā", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "icykatara", "url": "http://github.com/icykatara" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "linkedin", "username": "jeanne-chan", "url": "http://linkedin.com/in/jeanne-chan" },
       { "network": "instagram", "username": "icykatara", "url": "http://instagram.com/icykatara" }
     ]
   },
