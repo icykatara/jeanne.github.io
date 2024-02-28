@@ -1,31 +1,33 @@
 {
   "basics": {
     "name": "Jeanne Chan",
-    "label": "Student",
-    "picture": "https://github.com/jeanne8879.png",
+    "label": "Technology Theorist and Cute Ceramicist",
+    "picture": "https://github.com/icykatara.png",
     "email": "jeannechan2002@gmail.com",
-    "phone": "808-333-4444",
-    "website": "https://jeanne8879.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "phone": "",
+    "website": "https://icykatara.github.io",
+    "summary": "I am an Informatiion Technology Specialist at the University of Hawai'i System and a member of Hawai'i Potters' Guild",
     "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jeanne8879", "url": "http://github.com/jeanne8879" },
+      { "network": "github", "username": "icykatara", "url": "http://github.com/icykatara" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "icykatara", "url": "http://instagram.com/icykatara" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Software Engineering" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Technical Writer" },
+    { "name": "Neuroscience" },
+    { "name": "Handbuilding" },
+    { "name": "Wheelthrowing" },
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
