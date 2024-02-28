@@ -6,8 +6,8 @@
     "email": "jeannechan2002@gmail.com",
     "phone": "",
     "website": "https://icykatara.github.io",
-    "summary": "I am an Informatiion Technology Specialist at the University of Hawai'i System and a member of Hawai'i Potters' Guild",
-    "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am an Information Technology Specialist at University of Hawai'i System and a member of Hawai'i Potters' Guild",
+    "location": { "address": "", "postalCode": "96786", "city": "Wahiawā", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "icykatara", "url": "http://github.com/icykatara" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
@@ -18,7 +18,7 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Robotics" },
-    { "name": "Technical Writer" },
+    { "name": "Technical Writing" },
     { "name": "Neuroscience" },
     { "name": "Handbuilding" },
     { "name": "Wheelthrowing" },
