@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/box-city.jpg
+image: img/box-city-vigil/box-city.jpg
 title: Box City Vigil
 permalink: projects/box-city-vigil
 # All dates must be YYYY-MM-DD format!
