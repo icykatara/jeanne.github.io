@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:  images/ceramic-frog.jpeg
+image:  img/rebeginning-ceramics/ceramic-frog.jpeg
 title: (Re)Beginning Ceramics
 permalink: projects/rebeginning-ceramics
 # All dates must be YYYY-MM-DD format!
@@ -14,8 +14,8 @@ labels:
 summary: My passions after computer science.
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../img/rebeginning-ceramics/ceramic-frog.jpeg">
+<div class="text-center p-4">
+  <img width="600px" src="../img/rebeginning-ceramics/ceramic-frog.jpeg" class="img-thumbnail" >
 </div>
 
 After graduating from college, I moved away from my childhood family in Minnesota to my new family in Hawai’i. I got to live with my husband on this beautiful island of O’ahu. I didn’t have any old friends here or know much about anything, but I knew I wanted to be more creative with my life after academia. I found a ceramic studio located in Honolulu right by the University of Hawaii at Manoa, where I attended one semester. This studio brought back warm feelings of where I once lived in town. I can walk from my studio to my old apartment in less than ten minutes.
