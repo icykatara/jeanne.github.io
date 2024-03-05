@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:  images/baxter-robot-measurements.png
+image:  img/robotic-injection/baxter-robot-measurements.png
 title: Robotic Injection Using Baxter
 permalink: projects/robotic-injection
 # All dates must be YYYY-MM-DD format!
@@ -14,8 +14,8 @@ labels:
 summary: Utilizing the Baxter robot for real life problems, immunizations.
 ---
 
-<div class="ui meduim rounded images">
-  <img class="ui image" src="../img/robotic-injection/baxter-robot-measurements.png">
+<div class="text-center p-4">
+  <img width="1200px" src="../img/robotic-injection/baxter-robot-measurements.png" class="img-thumbnail" >
 </div>
 
 In this project, we propose a framework for performing robotic injections. We demonstrate one way to automate injections in humans. We use  forward and inverse kinematics on a humanoid manipulator robot, Baxter by Rethink Robotics,  coupled with a computer vision algorithm, implemented on an intel - real sense camera module, to detect the human pose and make a precise robotic arm maneuver to emulate impaling a human subject. Our code, which is written using python and implemented using ROS noetic, is optimized for implementing this task on the real robot in real-time. We have also performed a coordinate transformation from the camera to the robot frame of reference as well to achieve the required end effector motion in space. Automating human injections is especially relevant in the age of the COVID-19 pandemic. This can help our front line health workers and medical professionals, who are in direct contact with patients while performing vaccinations. A robot can simply allow them to be at a safe distance from the subject while overseeing the procedure. No needles or sharp objects were used in this demonstration.
