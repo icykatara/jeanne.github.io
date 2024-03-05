@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ESLint.png">
+  <img class="ui image" src="../img/coding-languages-with-standards/ESLint.png">
 </div>
 
 ## ESLint
