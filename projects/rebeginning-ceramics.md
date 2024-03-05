@@ -24,12 +24,13 @@ I studied under three amazingly talented female teachers at Hawai’i Potter Gui
 
 My first animal ocarina was a frog. An ocarina is a wind instrument, so when wind passes through my ceramic piece, like a flute or whistle, it makes a tone. I was quite ambitious when starting this because I saw this round cone shaped object, and I told myself I could make it into a frog. After a couple of weeks of attaching the limbs and getting the shape right, I knew I needed to add more to it. I used slip-trail and went all along the outside to add detail and pattern to my frog and into the bisque kiln it went. When it was out, I added an oxide on it to give it its color and high fired it to the final piece, my favorite piece.
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../img/rebeginning-ceramics/soft-ceramic-frog.jpeg">
+<div class="text-center p-4">
+  <img width="600px" src="../img/rebeginning-ceramics/soft-ceramic-frog.jpeg" class="img-thumbnail" >
 </div>
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../img/rebeginning-ceramics/sliptrail-ceramic-frog.jpeg">
+
+<div class="text-center p-4">
+  <img width="600px" src="../img/rebeginning-ceramics/sliptrail-ceramic-frog.jpeg" class="img-thumbnail" >
 </div>
 
 This creative outlet is something I cherish after being so academically focused all my life. Don’t get me wrong, I love school and plan on going back to college, but I didn’t have as much time to play and work with my hands to create art that I love and can show to the world.
