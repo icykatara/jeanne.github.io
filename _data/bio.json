@@ -51,7 +51,7 @@
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2023-12",
       "endDate": "Present",
-      "summary": "IT Specialist, Technical Writer, Web Developer",
+      "summary": "",
       "highlights": [
         "Configure and maintain software and security on devices for all 10 campuses in Hawai’i",
         "Compose and improve technical documentation for internal and external operating procedures",
@@ -67,10 +67,10 @@
       "position": "Child and Youth Program Assistant",
       "website": "",
       "startDate": "2022-09",
-      "endDate": "Present",
+      "endDate": "2022-12",
       "summary": "",
       "highlights": [
-        "maintains control of and accounts for whereabouts and safety of children and youth",
+        "Maintains control of and accounts for whereabouts and safety of children and youth",
         "Plans, coordinates, and conducts activities that meet the physical, social, emotional and cognitive needs for program participants based on the group and individual children and youth",
         "Establishes a program environment that sustains participant interest and promotes positive interactions with other children, youth, and adults",
         "Maintains program participation data and complete daily report"
@@ -99,8 +99,10 @@
       "endDate": "2021-08",
       "summary": "",
       "highlights": [
-        "Worked as a software engineer in multiple teams primarily using Javascript and Angular",
-        "Refactored the certificate authority and signing certificate process",
+        "Worked alongside senior software engineer in multiple teams primarily using Java, Golang, and Angular",
+        "Implemented new Apple features and maintaining existing services for Jamf Pro",
+        "Refactored the 802.1x certificate authority and signing certificate process",
+        "Attended quality insight meetings with UI/UX designers",
         "Created a website using Angular"
       ]
     },
@@ -112,8 +114,8 @@
       "endDate": "2020-10",
       "summary": "",
       "highlights": [ 
-        "Conducted activities for dementia residents and assisted feeding during meal times"
-
+        "Conducted and created activities for dementia residents",
+        "Assisted feeding during meal times"
       ]
     }
   ],
