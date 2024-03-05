@@ -14,7 +14,7 @@ summary: I created my first website and presented it during my Internship Summer
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/first-website/my-first-website.png" class="img-thumbnail" >
+  <img width="800px" src="../img/first-website/my-first-website.png" class="img-thumbnail" >
 </div>
 
 During the end of my software engineering internship, I had time to work on a personal project. The team I was working with focused on modernizing and refactoring the webpages to Angular. I was able to learn Angular on my own and start my own website in Angular. I took about two weeks on this project, and it turned out great for my first time coding in Angular.
