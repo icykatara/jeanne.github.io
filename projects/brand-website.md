@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: # img/brand-website/baxter-robot-measurements.png
 title: Website Relaunch...
 permalink: projects/brand-website
