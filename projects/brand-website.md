@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: # images/baxter-robot-measurements.png
+image: # img/brand-website/baxter-robot-measurements.png
 title: Website Relaunch...
 permalink: projects/brand-website
 # All dates must be YYYY-MM-DD format!
