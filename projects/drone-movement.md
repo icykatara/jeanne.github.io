@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/picojson-drone.jpg
+image: img/drone-movement/picojson-drone.jpg
 title: Drone Movement
 permalink: projects/drone-movement
 # All dates must be YYYY-MM-DD format!
@@ -14,8 +14,8 @@ labels:
 summary: I worked on the same team all semester to move a drone using the pre-made graphics. The drone picked up and delivered packages to customers.
 ---
 
-<div class="ui meduim rounded images">
-  <img class="ui image" src="../img/drone-movement/drone-map.png">
+<div class="text-center p-4">
+  <img width="400px" src="../img/drone-movement/drone-map.png" class="img-thumbnail" >
 </div>
 
 This was a project assigned in a course about program design and development. I used the given graphics to add and manipulate a drone to go to pick up a package and go to a customer on a given map. This was one of my first real world applications of computer science. The drone was able to move across a path on the road or in a parabolic path over buildings. This large group project required us to establish roles and a ticket-like system, so we could simultaneously work on the assignment without merge conflicts. 
