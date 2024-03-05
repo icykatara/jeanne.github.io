@@ -15,7 +15,7 @@ summary: I worked on the same team all semester to move a drone using the pre-ma
 ---
 
 <div class="ui meduim rounded images">
-  <img class="ui image" src="../images/drone-map.png">
+  <img class="ui image" src="../img/drone-movement/drone-map.png">
 </div>
 
 This was a project assigned in a course about program design and development. I used the given graphics to add and manipulate a drone to go to pick up a package and go to a customer on a given map. This was one of my first real world applications of computer science. The drone was able to move across a path on the road or in a parabolic path over buildings. This large group project required us to establish roles and a ticket-like system, so we could simultaneously work on the assignment without merge conflicts. 
