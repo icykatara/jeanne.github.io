@@ -2,14 +2,14 @@
   "basics": {
     "name": "Jeanne Chan",
     "label": "Scholarly Software Engineer and Captivating Ceramicist",
-    "picture": "https://github.com/icykatara.png",
+    "picture": "https://github.com/jeannepc.png",
     "email": "jeannechan2002@gmail.com",
     "phone": "",
-    "website": "https://icykatara.github.io",
+    "website": "https://jeannepc.github.io",
     "summary": "Hi! I am an Information Technology Specialist at University of Hawai'i System and a member of Hawai'i Potters' Guild",
     "location": { "address": "", "postalCode": "", "city": "Wahiawā", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "icykatara", "url": "http://github.com/icykatara" },
+      { "network": "github", "username": "jeannepc", "url": "http://github.com/jeannepc" },
       { "network": "linkedin", "username": "jeanne-chan", "url": "http://linkedin.com/in/jeanne-chan" },
       { "network": "instagram", "username": "icykatara", "url": "http://instagram.com/icykatara" }
     ]
