@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://jeannepc.github.io",
     "summary": "Hi! I am an Information Technology Specialist at University of Hawai'i System and a member of Hawai'i Potters' Guild",
-    "location": { "address": "", "postalCode": "", "city": "Wahiawā", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Wahiawā", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
       { "network": "github", "username": "jeannepc", "url": "http://github.com/jeannepc" },
       { "network": "linkedin", "username": "jeanne-chan", "url": "http://linkedin.com/in/jeanne-chan" },
